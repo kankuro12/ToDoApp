@@ -10,6 +10,8 @@ namespace ToDoApp
     {
        
         public bool done { get; set; }
+
+        public int id { get; set; }
         public string tasks{ get; set; }
  
     }
